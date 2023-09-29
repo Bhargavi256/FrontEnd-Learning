@@ -9,10 +9,13 @@ The work I have done during learning the topics and the projects I have done are
  I have done 3 different types of cards to explore css topics deeply.
 #### Course Card :
     https://bhargavi256.github.io/FrontEnd-Learning/CardsProject/courseCard/
+    
 #### Card2 :
     https://bhargavi256.github.io/FrontEnd-Learning/CardsProject/Card2/
+    
 #### qrcode :
     https://bhargavi256.github.io/FrontEnd-Learning/CardsProject/qrcode/
+    
 
 ## Reciepe Project
   
@@ -24,3 +27,7 @@ The work I have done during learning the topics and the projects I have done are
   Resume represents my qualifications, skills, and projects I have done.
   
   https://bhargavi256.github.io/FrontEnd-Learning/Resume/ 
+
+## GymWebsite
+Static Website for the Gym
+https://bhargavi256.github.io/FrontEnd-Learning/GymWebsite/
