@@ -31,3 +31,7 @@ The work I have done during learning the topics and the projects I have done are
 ## GymWebsite
 Static Website for the Gym
 https://bhargavi256.github.io/FrontEnd-Learning/GymWebsite/
+
+## Restaurant Website
+static wesite for the restaurant
+https://bhargavi256.github.io/FrontEnd-Learning/RestaurantWebsite/
